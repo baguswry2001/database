@@ -1,0 +1,10 @@
+{
+  "license_key": "ABCDE-12345-FGHIJ-67890",
+  "machine_id": "a1:b2:c3:d4:e5:f6",
+  "expiration_date": "2024-12-31",
+  "additional_info": {
+    "user_id": "123456",
+    "subscription_type": "premium",
+    "activated": true
+  }
+}
